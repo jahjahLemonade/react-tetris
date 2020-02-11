@@ -5,7 +5,7 @@ export const createStage = () =>
 Array.from(Array(STAGE_HEIGHT), () => 
     new Array(STAGE_WIDTH).fill([0, 'clear'])
 ) 
-
+//Come Back and Optimize????  
 export const checkCollision = (player, stage, { x: moveX, y: moveY }) => {
     for (let y = 0; y < player.tech.length; y += 1) {
         for(let x = 0; x < player.tech[y].length; x += 1){
