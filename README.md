@@ -5,4 +5,5 @@
 A clone based on the classic Tetris game using React Hooks
 
 
-   ![Tetris](https://upload.wikimedia.org/wikipedia/en/3/34/Tetris_logo.jpg)
+   Play It Here >>>>>>>>> https://jspades93.github.io/react-tetris/
+   
